@@ -1,0 +1,29 @@
+# Dependency directories
+node_modules/
+yarn.lock
+package-lock.json
+
+# Build directories
+build/
+dist/
+coverage/
+
+# Environment configuration files
+.env
+.env.local
+.env.*.local
+
+# Editor directories
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Editor backup files
+*.swp
+*~
+
+# Logs
+logs/
+*.log
